@@ -32,6 +32,9 @@ Workflow({
 
 ## Rules
 
+- Measured cost 2026-10-02: ~26K Haiku tokens per agent (mostly fixed system-prompt input).
+  size 16 = ~0.8M, size 50 = ~2.6M. Say the estimate before any run above size 16.
+- Agents run as `agentType: "Explore"` so they skip CLAUDE.md + memory (was ~47K/agent without).
 - Keep it cheap: never raise `model` above `haiku` unless the user asks. `context` stays short -
   it is pasted into every one of the agents.
 - The bracket is a sensor, not a verdict. Champion = most persuasive 60-word pitch to a small

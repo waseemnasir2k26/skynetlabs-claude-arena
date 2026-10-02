@@ -72,6 +72,7 @@ let fighters = (
             schema: PITCH,
             model,
             effort: "low",
+            agentType: "Explore",
           },
         ).then((p) => p && { id: i + 1, ...p, wins: 0 }),
     ),
@@ -106,6 +107,7 @@ while (fighters.length > 1) {
           schema: VERDICT,
           model,
           effort: "low",
+          agentType: "Explore",
         },
       );
       if (!v) log(`r${r} judge failed: ${A.name} advances by default`);
