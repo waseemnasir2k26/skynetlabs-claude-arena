@@ -75,9 +75,6 @@ The web check then marked all four finalists `partial`: close neighbours exist f
 and it listed them with URLs. That is the point of the last step - the bracket picks the most
 persuasive pitch, the check tells you how new it really is.
 
-## Status
-
-Last reviewed: October 2026 · release v2026.10
 
 ## Read this before you trust a champion
 
@@ -90,12 +87,9 @@ Last reviewed: October 2026 · release v2026.10
 - `SKILL.md` - skill instructions Claude follows
 - `arena.js` - the Workflow script
 
-MIT - built by [SkynetLabs](https://skynetjoe.com)
+MIT. Built by SkynetLabs.
 
-## Work with SkynetLabs
+---
 
-Built by [Waseem Nasir](https://www.skynetjoe.com/?utm_source=github&utm_medium=readme&utm_campaign=skynetlabs-claude-arena) at SkynetLabs — n8n + AI automation for small businesses.
-
-- Hire on Fiverr: https://www.fiverr.com/agencies/skynetjoellc
-- Hire on Upwork: https://www.upwork.com/freelancers/muhammadwaseemnasir
-- Book a free call: https://calendly.com/skynetlabs/schedule-a-free-consultation
+Need this wired into your business? SkynetLabs builds voice agents, n8n back offices and sites that convert → https://skynetjoe.com
+Contact: info@skynetjoe.com
