@@ -92,4 +92,4 @@ MIT. Built by SkynetLabs.
 ---
 
 Need this wired into your business? SkynetLabs builds voice agents, n8n back offices and sites that convert → https://skynetjoe.com
-Contact: info@skynetjoe.com
+Contact: waseem@skynetjoe.com
